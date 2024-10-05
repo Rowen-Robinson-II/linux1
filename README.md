@@ -22,8 +22,6 @@ This tutorial outlines the some basic commands used in Linux<br />
 
 <h2>Commands In Linux</h2>
 
-<h2>Network Security Groups (Confiuring A Firewall)</h2>
-
 <h3 align="center">Basic Commands</h3>
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/224982ff-78c4-4098-b866-09b2343d41fb">
 </p>
