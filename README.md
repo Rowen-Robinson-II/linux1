@@ -3,7 +3,7 @@
 </p>
 
 <h1>Linux Fundamentals Part 1</h1>
-This tutorial outlines the some basic commands used in Linux<br />
+This tutorial outlines basic commands used in Linux<br />
 
 
 
